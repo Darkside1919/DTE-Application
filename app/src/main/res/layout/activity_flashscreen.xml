@@ -31,17 +31,6 @@
         app:lottie_autoPlay="true"
         app:lottie_rawRes="@raw/intro" />
 
-    <ImageView
-        android:id="@+id/imageView3"
-        android:layout_width="271dp"
-        android:layout_height="151dp"
-        android:contentDescription="@string/app_name"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.708"
-        app:srcCompat="@drawable/applogo" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
