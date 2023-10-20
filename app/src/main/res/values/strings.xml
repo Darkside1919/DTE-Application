@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DTE</string>
+    <string name="logicgatesbt">LogicGates</string>
+    <string name="conversionsbt">Conversion</string>
+    <string name="photoname">Logo</string>
+    <string name="Theoremsbt">Theorems</string>
+    <string name="Notesbt">Notes</string>
+    <string name="WLC">Welcome to DTE</string>
+    <string name="title_activity_logicgates">Logic gates</string>
+
+
+    <string name="imgdesc1">DE morgansTheorem1</string>
+    <string name="imgdesc2">DE morgansTheorem2</string>
+    <string name="title1">DE-Morgan\'s Theorem :</string>
+    <string name="title2">\nTheorem 1 :</string>
+    <string name="title3">Theorem 2 :</string>
+    <string name="title5">Duality Theorem :</string>
+    <string name="theorem_1">\t___ . _ . _\n\tA·B=A+B\n\tThis theorem states
+    that complement of product is equal to sum of complement.\n\n</string>
+
+    <string name="theorem_2">\t__ . _  _\n\tA+B=A·B\n\tThis theorem states
+    that complement of sum is equal to product of complement.\n\n</string>
+
+    <string name="dualityt"> According to the duality theorem, the following conversions are possible in a given boolean expression\n
+    i) change each AND operation to OR operation.\nii) change each OR operation to AND operation.\niii) complement any 1 or 0
+    appearing in the expression.\n\n e.g.,\tA+B=1\nAns: A·B=0</string>
+    <string name="title4">Truth Table :</string>
+    <string name="Enter_number">Enter number</string>
+    <string name="From_base">From base</string>
+    <string name="To_base">To base</string>
+    <string name="Convert">= Convert</string>
+    <string name="X_Reset">X Reset</string>
+    <string name="Result_number">Result number</string>
+    <string name="Logicgatesop">Logic GATE output</string>
+    <string name="GATE">GATE</string>
+    <string name="A">Input A</string>
+    <string name="B">Input B</string>
+    <string name="Gatevalue">Gate value</string>
+    <string name="logodisc">Logo desc</string>
+    <string name="gatesopbtn">Submit</string>
+
+</resources>
